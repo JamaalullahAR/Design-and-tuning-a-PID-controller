@@ -1,7 +1,7 @@
 # Design and tuning a PID controller
 
 ## Overview
-This project required the implementation of a PID controller for a UAV drone. The drone needed to achive certain targets which was required from the assignment. 
+This project required the implementation of a PID controller for a UAV drone. The drone needed to achive certain targets which was required from the assignment. The full report can be seen in the report PDF in the added files.
 
 ## Objectives
 - Calculate the correct transfer functions required.
