@@ -33,4 +33,11 @@ This project required the implementation of a PID controller for a UAV drone. Th
 - Managed to gain a better understanding of SIMULINK and how to use it.
 - How to identify and calculate transfer functions from block diagrams.
 
+<!-- <p align="center">
+  <img src="" width="800">
+</p>
+
+<p align="center">
+  <i>Figure 1: </i>
+</p> --!>
 
